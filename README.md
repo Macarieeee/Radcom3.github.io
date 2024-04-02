@@ -10,4 +10,4 @@
 10. in loc de 'Talk to us' pe buton sa scrie Find out More
 11. sectiunea de get in touch poate sa dispara
 12. si footer-ul sa aiba informatiile de pe site-ul lor sau de la mine din template
-13. in rest mai vedem ce poate fi adaugat
+13. de schimbat culorile de galebn in main color
